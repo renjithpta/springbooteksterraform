@@ -1,0 +1,7 @@
+{
+  "name": "EKS Spring Boot Cloud Architect",
+  "description": "A comprehensive full-stack blueprint featuring Spring Boot microservices, Terraform for AWS EKS & RDS, and a React dashboard with weather integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
